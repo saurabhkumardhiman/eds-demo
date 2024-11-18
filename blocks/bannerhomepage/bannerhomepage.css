@@ -1,0 +1,17 @@
+.bannerhomepage {
+    background-color: burlywood;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.bannerhomepage div h2 {
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.bannerhomepage div p {
+    padding: 0px 30px 30px 30px;
+    color: rebeccapurple;
+}
