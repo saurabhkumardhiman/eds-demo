@@ -1,0 +1,10 @@
+.banner-wrapper {
+    background-color: lightblue;
+    padding: 15px 30px 30px 30px !important;
+    margin-bottom: 50px !important;
+}
+
+.banner #day-1-part-2-assignment {
+    display: flex;
+    justify-content: center;
+}
