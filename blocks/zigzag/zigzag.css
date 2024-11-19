@@ -1,0 +1,20 @@
+.zigzag {
+    background-color: bisque;
+}
+
+.zigzag div {
+    display: flex;
+    width: 100%;
+}
+
+.zigzag div img {
+    display: flex;
+}
+
+.zigzag div table {
+    padding: 16px;
+}
+
+.zigzag table tbody tr td h2 {
+    margin: 0;
+}
