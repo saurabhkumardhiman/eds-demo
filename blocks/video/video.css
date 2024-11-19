@@ -1,0 +1,14 @@
+.video {
+    padding-bottom: 50px;
+}
+
+.video picture img {
+    width: 100%;
+    display: flex;
+    height: auto;
+}
+
+.video .button-container .button {
+    background-color: black;
+    color: white;
+}

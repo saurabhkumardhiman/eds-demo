@@ -1,0 +1,6 @@
+.imageview picture img {
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding-bottom: 48px;
+}

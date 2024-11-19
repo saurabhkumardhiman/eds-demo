@@ -1,0 +1,13 @@
+.linkview {
+    padding-bottom: 50px;
+}
+
+.linkview p img {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.linkview p a {
+    color: black;
+}
