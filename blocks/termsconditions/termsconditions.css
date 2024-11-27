@@ -1,0 +1,21 @@
+.termsconditions .terms-cond-block {
+    background-color: cadetblue;
+    padding: 30px;
+}
+
+.termsconditions .terms-cond-block .title-desc-details .title-value {
+    color: white;
+    font-size: 16px;
+    font-family: 'roboto';
+} 
+
+.termsconditions .terms-cond-block .title-desc-details .title-desc {
+    color: white;
+    font-size: 16px;
+    font-family: 'roboto';
+    padding-bottom: 30px;
+}
+
+.termsconditions .terms-cond-block .title-desc-details .title-desc:last-of-type {
+    padding-bottom: 0px;
+}
