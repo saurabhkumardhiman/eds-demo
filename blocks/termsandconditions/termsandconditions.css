@@ -1,0 +1,7 @@
+.termsandconditions .isH2Div {
+    color: green;
+}
+
+.termsandconditions .isH2Div + p {
+    color: black;
+}
